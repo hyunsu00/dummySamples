@@ -19,5 +19,7 @@ if (n <= 0) {
   alert(pow(x, n));
 }
 */
-
-let styles = ["jazz", "Blues"];
+/*
+alert("𝒳".charCodeAt(0).toString(16)); // d835, 0xd800과 0xdbff 사이의 코드
+alert("𝒳".charCodeAt(1).toString(16)); // dcb3, 0xdc00과 0xdfff 사이의 코드
+*/
