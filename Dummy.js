@@ -1,5 +1,6 @@
 "use strict";
 
+/*
 function pow(x, n) {
   let result = 1;
   for (let i = 0; i < n; i++) {
@@ -17,3 +18,6 @@ if (n <= 0) {
 } else {
   alert(pow(x, n));
 }
+*/
+
+let styles = ["jazz", "Blues"];
